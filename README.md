@@ -11,6 +11,7 @@ ANALISI DEL PROBLEMA
    L'obiettivo del software è quindi quello di sostiture in maniera telematica la cosiddetta "carta e penna" automatizzando così il processo di invio delle comande ai settori     interessati risparmiando così tempo utile e risparmiando così carta termica.
 
 REQUISITI DEL SISTEMA
+
 Di seguito sono elencate le funzionalità che il sistema deve implementare per risolvere il problema identificato.
 1) REGISTRAZIONE DEGLI UTENTI
    Il software dovrà permettere agli utenti di creare un proprio account sulla piattaforma, ciò permetterà di assegnare loro un ruolo che sarà fondamentale per l'esecuzione 
