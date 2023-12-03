@@ -20,3 +20,8 @@ Di seguito sono elencate le funzionalità richieste.
    Il software dovrà permettere l'invio degli ordini attraverso gli utenti e la visualizzazione dello stato degli stessi.
 ### 4) IMPOSTAZIONE STATO ORDINI
    Il software dovrà permettere la modifica dello stato dell'ordine riguardo la preparazione o la consegna al tavolo.
+
+   ## VALUE PROPOSITION
+   ORDINAZIONI EFFICIENTI <br>
+   La nostra web app offre un'efficace piattaforma per gestire le ordinazioni in modo intuitivo ed efficiente. Aiutiamo i camerieri a prendere ordinazioni in modo rapido e preciso, trasmettendo istantaneamente gli ordini direttamente alla cucina. Gli addetti in cucina possono visualizzare immediatamente gli ordini in arrivo, migliorando la comunicazione e riducendo i tempi di preparazione. Con la nostra soluzione, ottieni un flusso di lavoro fluido e coordinato, migliorando l'esperienza del cliente e ottimizzando l'efficienza operativa del tuo ristorante
+
