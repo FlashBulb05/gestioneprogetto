@@ -64,7 +64,7 @@ Di seguito sono elencate le funzionalità richieste.
 https://yuml.me/98710343.svg
 
 
-#USER STORIES
+# USER STORIES
 
 **User Story 1: Registrazione degli Utenti**
 
