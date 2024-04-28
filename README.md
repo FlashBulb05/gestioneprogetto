@@ -144,5 +144,5 @@ Per poter coordinare efficacemente la cucina.
 - Il sistema tiene traccia degli stati passati per riferimenti futuri.
 
 # Startup Pivot
-La mia applicazione presenta già le caratteristiche della multitenancy in quanto qualsiasi tipo di ristoratore la può personalizzare per la propria attività senza bisogno di particolari modifiche.
+La mia applicazione presenta già le caratteristiche della multitenancy in quanto qualsiasi tipo di ristoratore può personalizzarla per la propria attività senza dover ricorrere a particolari modifiche.
 
